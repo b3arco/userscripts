@@ -1,4 +1,13 @@
 {
+  "name": "userscripts",
+  "description": "",
+  "version": "1.0.0",
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "prepare": "husky"
+  },
   "devDependencies": {
     "@types/tampermonkey": "^5.0.4",
     "esbuild": "^0.25.9",
